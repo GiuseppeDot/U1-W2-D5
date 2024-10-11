@@ -1,0 +1,20 @@
+body {
+}
+
+header {
+  background-color: blueviolet;
+}
+
+body header div {
+  width: 200px;
+}
+
+#logo {
+  text-align: center;
+  margin: 20px;
+  width: 7em;
+}
+
+#nav {
+  display: flex;
+}
